@@ -45,6 +45,13 @@ local function notify(description, notifType)
             description = description,
             type = notifType or 'inform'
         })
+    end
+
+    if Config.UseChatMessages ~= false then
+        TriggerEvent('chat:addMessage', {
+            color = { 0, 153, 255 },
+            args = { 'CBK Floods', description }
+        })
     else
         BeginTextCommandThefeedPost('STRING')
         AddTextComponentSubstringPlayerName(description)

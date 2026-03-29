@@ -25,12 +25,53 @@ const defaultAlarmConfig = {
 let alarmContext;
 let alarmStopTimer = null;
 let activeAudioNodes = [];
+let holdRemainingEndsAt = 0;
+let holdRemainingTimer = null;
 
 function formatHold(seconds) {
-  const total = Math.max(0, Number(seconds || 0));
+  const total = Math.max(0, Math.ceil(Number(seconds || 0)));
   const mins = String(Math.floor(total / 60)).padStart(2, '0');
   const secs = String(total % 60).padStart(2, '0');
   return `${mins}:${secs}`;
+}
+
+function renderHoldRemaining() {
+  if (holdRemainingEndsAt <= 0) {
+    holdRemaining.textContent = formatHold(0);
+    return;
+  }
+
+  const remainingSeconds = Math.max(0, (holdRemainingEndsAt - Date.now()) / 1000);
+  holdRemaining.textContent = formatHold(remainingSeconds);
+
+  if (remainingSeconds <= 0) {
+    holdRemainingEndsAt = 0;
+    if (holdRemainingTimer) {
+      window.clearInterval(holdRemainingTimer);
+      holdRemainingTimer = null;
+    }
+  }
+}
+
+function setHoldRemaining(seconds) {
+  const total = Math.max(0, Number(seconds || 0));
+
+  if (total <= 0) {
+    holdRemainingEndsAt = 0;
+    if (holdRemainingTimer) {
+      window.clearInterval(holdRemainingTimer);
+      holdRemainingTimer = null;
+    }
+    renderHoldRemaining();
+    return;
+  }
+
+  holdRemainingEndsAt = Date.now() + (total * 1000);
+  renderHoldRemaining();
+
+  if (!holdRemainingTimer) {
+    holdRemainingTimer = window.setInterval(renderHoldRemaining, 250);
+  }
 }
 
 function clampVolume(volume) {
@@ -233,7 +274,7 @@ window.addEventListener('message', (event) => {
     const payload = data.payload || {};
     stageName.textContent = payload.stageName || 'Idle';
     waterLevel.textContent = `${Number(payload.level || 0).toFixed(2)} / ${Number(payload.maxLevel || 0).toFixed(2)}`;
-    holdRemaining.textContent = formatHold(payload.holdRemaining);
+    setHoldRemaining(payload.holdRemaining);
     statusText.textContent = payload.statusText || 'Monitoring';
 
     safeState.textContent = payload.statusText || 'Monitoring';

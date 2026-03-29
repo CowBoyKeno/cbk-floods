@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding = "UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <WaterData>
   <WaterQuads>
     <Item>
@@ -1099,7 +1099,7 @@
     <Item>
       <minX value="-3176" />
       <maxX value="-3084" />
-      <minY value="76" />
+      <minY value="-40" />
       <maxY value="184" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -1114,7 +1114,7 @@
     <Item>
       <minX value="-3500" />
       <maxX value="-3176" />
-      <minY value="76" />
+      <minY value="-40" />
       <maxY value="368" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -1172,9 +1172,9 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-2428" />
+      <minX value="-2844" />
       <maxX value="-2372" />
-      <minY value="-360" />
+      <minY value="-476" />
       <maxY value="-340" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -1322,36 +1322,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-2844" />
-      <maxX value="-2428" />
-      <minY value="-476" />
-      <maxY value="-340" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-2428" />
-      <maxX value="-2372" />
-      <minY value="-476" />
-      <maxY value="-360" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-3500" />
       <maxX value="-2908" />
       <minY value="1536" />
@@ -1414,23 +1384,8 @@
     <Item>
       <minX value="-3500" />
       <maxX value="-3292" />
-      <minY value="1080" />
-      <maxY value="1536" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-3500" />
-      <maxX value="-3292" />
       <minY value="952" />
-      <maxY value="1080" />
+      <maxY value="1536" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -1474,23 +1429,8 @@
     <Item>
       <minX value="2092" />
       <maxX value="2212" />
-      <minY value="3928" />
-      <maxY value="4676" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2092" />
-      <maxX value="2212" />
       <minY value="3900" />
-      <maxY value="3928" />
+      <maxY value="4676" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -1609,23 +1549,8 @@
     <Item>
       <minX value="2212" />
       <maxX value="2308" />
-      <minY value="3976" />
-      <maxY value="4676" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2212" />
-      <maxX value="2308" />
       <minY value="3924" />
-      <maxY value="3976" />
+      <maxY value="4676" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -2102,7 +2027,7 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="212" />
+      <minX value="152" />
       <maxX value="332" />
       <minY value="3428" />
       <maxY value="3596" />
@@ -2124,7 +2049,7 @@
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
-      <z value="29.9998" />
+      <z value="30.0" />
       <a1 value="26" />
       <a2 value="26" />
       <a3 value="26" />
@@ -2139,7 +2064,7 @@
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
-      <z value="29.9999" />
+      <z value="30.0" />
       <a1 value="26" />
       <a2 value="26" />
       <a3 value="26" />
@@ -2567,21 +2492,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="152" />
-      <maxX value="212" />
-      <minY value="3508" />
-      <maxY value="3596" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="104" />
       <maxX value="332" />
       <minY value="3788" />
@@ -2672,21 +2582,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="152" />
-      <maxX value="212" />
-      <minY value="3428" />
-      <maxY value="3508" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="124" />
       <maxX value="152" />
       <minY value="3428" />
@@ -2749,23 +2644,8 @@
     <Item>
       <minX value="-148" />
       <maxX value="-108" />
-      <minY value="3844" />
-      <maxY value="3932" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-148" />
-      <maxX value="-108" />
       <minY value="3796" />
-      <maxY value="3844" />
+      <maxY value="3932" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -2897,39 +2777,9 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-164" />
+      <minX value="-212" />
       <maxX value="-16" />
       <minY value="4064" />
-      <maxY value="4256" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-212" />
-      <maxX value="-164" />
-      <minY value="4064" />
-      <maxY value="4092" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-212" />
-      <maxX value="-164" />
-      <minY value="4092" />
       <maxY value="4256" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -3004,7 +2854,7 @@
     <Item>
       <minX value="-4000" />
       <maxX value="-3500" />
-      <minY value="-500" />
+      <minY value="-3436" />
       <maxY value="2220" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -3020,21 +2870,6 @@
       <minX value="-4000" />
       <maxX value="-3500" />
       <minY value="3564" />
-      <maxY value="5700" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-4000" />
-      <maxX value="-3500" />
-      <minY value="5700" />
       <maxY value="7500" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -3048,7 +2883,7 @@
     </Item>
     <Item>
       <minX value="-4000" />
-      <maxX value="-1000" />
+      <maxX value="4500" />
       <minY value="7500" />
       <maxY value="8000" />
       <Type value="0" />
@@ -3062,7 +2897,7 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="1500" />
+      <minX value="-852" />
       <maxX value="4500" />
       <minY value="-4000" />
       <maxY value="-3436" />
@@ -3077,23 +2912,8 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-4000" />
-      <maxX value="-3500" />
-      <minY value="-3436" />
-      <maxY value="-500" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-3500" />
-      <maxX value="-1784" />
+      <maxX value="-260" />
       <minY value="6872" />
       <maxY value="7500" />
       <Type value="0" />
@@ -3139,7 +2959,7 @@
     <Item>
       <minX value="3164" />
       <maxX value="3348" />
-      <minY value="5100" />
+      <minY value="5056" />
       <maxY value="5444" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -3156,36 +2976,6 @@
       <maxX value="3536" />
       <minY value="3728" />
       <maxY value="3744" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1000" />
-      <maxX value="2000" />
-      <minY value="7500" />
-      <maxY value="8000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
-      <maxX value="4500" />
-      <minY value="7500" />
-      <maxY value="8000" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -3332,7 +3122,7 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="112" />
+      <minX value="4" />
       <maxX value="232" />
       <minY value="7124" />
       <maxY value="7500" />
@@ -3392,21 +3182,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-1784" />
-      <maxX value="-260" />
-      <minY value="6872" />
-      <maxY value="7500" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="1100" />
       <maxX value="1480" />
       <minY value="6600" />
@@ -3452,38 +3227,8 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-236" />
-      <maxX value="-152" />
-      <minY value="6644" />
-      <maxY value="6716" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-236" />
-      <maxX value="-152" />
-      <minY value="6716" />
-      <maxY value="6872" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-272" />
-      <maxX value="-236" />
+      <maxX value="-152" />
       <minY value="6644" />
       <maxY value="6872" />
       <Type value="0" />
@@ -3849,7 +3594,7 @@
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
-      <z value="5.96046e-007" />
+      <z value="0.0" />
       <a1 value="26" />
       <a2 value="26" />
       <a3 value="26" />
@@ -4202,23 +3947,8 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-1876" />
-      <maxX value="-1748" />
-      <minY value="4804" />
-      <maxY value="4876" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-2108" />
-      <maxX value="-1876" />
+      <maxX value="-1748" />
       <minY value="4804" />
       <maxY value="4876" />
       <Type value="0" />
@@ -4412,21 +4142,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-852" />
-      <maxX value="1500" />
-      <minY value="-4000" />
-      <maxY value="-3436" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-1500" />
       <maxX value="-852" />
       <minY value="-4000" />
@@ -4457,7 +4172,7 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-1472" />
+      <minX value="-1500" />
       <maxX value="-928" />
       <minY value="-3576" />
       <maxY value="-3424" />
@@ -4490,21 +4205,6 @@
       <minX value="-1904" />
       <maxX value="-1500" />
       <minY value="-4000" />
-      <maxY value="-3424" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1500" />
-      <maxX value="-1472" />
-      <minY value="-3576" />
       <maxY value="-3424" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -4668,7 +4368,7 @@
     </Item>
     <Item>
       <minX value="1932" />
-      <maxX value="1992" />
+      <maxX value="2092" />
       <minY value="3960" />
       <maxY value="3992" />
       <Type value="0" />
@@ -4686,21 +4386,6 @@
       <maxX value="2092" />
       <minY value="3992" />
       <maxY value="4380" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="30.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="1992" />
-      <maxX value="2092" />
-      <minY value="3960" />
-      <maxY value="3992" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -5402,41 +5087,11 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-3500" />
-      <maxX value="-3176" />
-      <minY value="-40" />
-      <maxY value="76" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="-3028" />
       <maxX value="-2848" />
       <minY value="-40" />
       <maxY value="12" />
       <Type value="1" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-3176" />
-      <maxX value="-3084" />
-      <minY value="-40" />
-      <maxY value="76" />
-      <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
       <z value="0.0" />
@@ -5689,7 +5344,7 @@
     <Item>
       <minX value="3976" />
       <maxX value="4500" />
-      <minY value="3432" />
+      <minY value="2832" />
       <maxY value="3772" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -5899,7 +5554,7 @@
     <Item>
       <minX value="3884" />
       <maxX value="3976" />
-      <minY value="3288" />
+      <minY value="2832" />
       <maxY value="3432" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -6182,36 +5837,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3976" />
-      <maxX value="4500" />
-      <minY value="2832" />
-      <maxY value="3432" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="3884" />
-      <maxX value="3976" />
-      <minY value="2832" />
-      <maxY value="3288" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="3868" />
       <maxX value="3912" />
       <minY value="4164" />
@@ -6245,7 +5870,7 @@
       <minX value="3824" />
       <maxX value="3912" />
       <minY value="4404" />
-      <maxY value="4460" />
+      <maxY value="4548" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -6347,21 +5972,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3164" />
-      <maxX value="3348" />
-      <minY value="5056" />
-      <maxY value="5100" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="3912" />
       <maxX value="4500" />
       <minY value="4164" />
@@ -6392,21 +6002,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3824" />
-      <maxX value="3912" />
-      <minY value="4460" />
-      <maxY value="4548" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="3632" />
       <maxX value="3912" />
       <minY value="4648" />
@@ -6425,21 +6020,6 @@
       <minX value="3528" />
       <maxX value="3912" />
       <minY value="4712" />
-      <maxY value="4840" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="3528" />
-      <maxX value="3912" />
-      <minY value="4840" />
       <maxY value="5100" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -6662,7 +6242,7 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3140" />
+      <minX value="3104" />
       <maxX value="3156" />
       <minY value="2016" />
       <maxY value="2068" />
@@ -6707,21 +6287,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3104" />
-      <maxX value="3140" />
-      <minY value="2016" />
-      <maxY value="2068" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="3030" />
       <maxX value="3158" />
       <minY value="2108" />
@@ -6739,7 +6304,7 @@
     <Item>
       <minX value="3388" />
       <maxX value="3444" />
-      <minY value="5856" />
+      <minY value="5700" />
       <maxY value="6016" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -7127,21 +6692,6 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="3388" />
-      <maxX value="3444" />
-      <minY value="5700" />
-      <maxY value="5856" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
       <minX value="3216" />
       <maxX value="3444" />
       <minY value="6140" />
@@ -7265,7 +6815,7 @@
       <minX value="1480" />
       <maxX value="1776" />
       <minY value="6664" />
-      <maxY value="6728" />
+      <maxY value="7032" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -7296,21 +6846,6 @@
       <maxX value="1496" />
       <minY value="6600" />
       <maxY value="6664" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="1480" />
-      <maxX value="1776" />
-      <minY value="6728" />
-      <maxY value="7032" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -7488,21 +7023,6 @@
     </Item>
     <Item>
       <minX value="4" />
-      <maxX value="112" />
-      <minY value="7124" />
-      <maxY value="7500" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="4" />
       <maxX value="76" />
       <minY value="6988" />
       <maxY value="7124" />
@@ -7563,218 +7083,8 @@
     </Item>
     <Item>
       <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="-2600" />
-      <maxY value="-1800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="-2600" />
-      <maxY value="-1800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
       <maxX value="1200" />
       <minY value="-2600" />
-      <maxY value="-1800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="-1800" />
-      <maxY value="-1000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="-1800" />
-      <maxY value="-1000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
-      <maxX value="1200" />
-      <minY value="-1800" />
-      <maxY value="-1000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="-1000" />
-      <maxY value="-200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="-1000" />
-      <maxY value="-200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
-      <maxX value="1200" />
-      <minY value="-1000" />
-      <maxY value="-200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="-200" />
-      <maxY value="600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="-200" />
-      <maxY value="600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
-      <maxX value="1200" />
-      <minY value="-200" />
-      <maxY value="600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="600" />
-      <maxY value="1400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="600" />
-      <maxY value="1400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
-      <maxX value="1200" />
-      <minY value="600" />
       <maxY value="1400" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -7788,96 +7098,6 @@
     </Item>
     <Item>
       <minX value="-1200" />
-      <maxX value="-400" />
-      <minY value="1400" />
-      <maxY value="2200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-400" />
-      <maxX value="400" />
-      <minY value="1400" />
-      <maxY value="2200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="400" />
-      <maxX value="1200" />
-      <minY value="1400" />
-      <maxY value="2200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="1200" />
-      <maxX value="2000" />
-      <minY value="964" />
-      <maxY value="1400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="1200" />
-      <maxX value="2000" />
-      <minY value="1400" />
-      <maxY value="2200" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
-      <maxX value="2744" />
-      <minY value="964" />
-      <maxY value="1400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
       <maxX value="2744" />
       <minY value="1400" />
       <maxY value="2200" />
@@ -7892,55 +7112,10 @@
       <NoStencil value="false" />
     </Item>
     <Item>
-      <minX value="-2200" />
-      <maxX value="-800" />
-      <minY value="2200" />
-      <maxY value="3000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-800" />
-      <maxX value="600" />
-      <minY value="2200" />
-      <maxY value="3000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="600" />
-      <maxX value="2000" />
-      <minY value="2200" />
-      <maxY value="3000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
-      <maxX value="3400" />
-      <minY value="2200" />
-      <maxY value="3000" />
+      <minX value="1200" />
+      <maxX value="2744" />
+      <minY value="964" />
+      <maxY value="1400" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -7953,173 +7128,8 @@
     </Item>
     <Item>
       <minX value="-2200" />
-      <maxX value="-800" />
-      <minY value="3000" />
-      <maxY value="3800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-800" />
-      <maxX value="600" />
-      <minY value="3000" />
-      <maxY value="3800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="600" />
-      <maxX value="2000" />
-      <minY value="3000" />
-      <maxY value="3800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
       <maxX value="3400" />
-      <minY value="3000" />
-      <maxY value="3800" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-2200" />
-      <maxX value="-800" />
-      <minY value="3800" />
-      <maxY value="4600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-800" />
-      <maxX value="600" />
-      <minY value="3800" />
-      <maxY value="4600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="600" />
-      <maxX value="2000" />
-      <minY value="3800" />
-      <maxY value="4600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
-      <maxX value="3400" />
-      <minY value="3800" />
-      <maxY value="4600" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-2200" />
-      <maxX value="-800" />
-      <minY value="4600" />
-      <maxY value="5400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="-800" />
-      <maxX value="600" />
-      <minY value="4600" />
-      <maxY value="5400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="600" />
-      <maxX value="2000" />
-      <minY value="4600" />
-      <maxY value="5400" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="2000" />
-      <maxX value="3400" />
-      <minY value="4600" />
+      <minY value="2200" />
       <maxY value="5400" />
       <Type value="0" />
       <IsInvisible value="false" />
@@ -8208,7 +7218,7 @@
     </Item>
     <Item>
       <minX value="-1000" />
-      <maxX value="500" />
+      <maxX value="3500" />
       <minY value="4000" />
       <maxY value="8000" />
       <Type value="0" />
@@ -8226,21 +7236,6 @@
       <maxX value="3500" />
       <minY value="-4000" />
       <maxY value="2000" />
-      <Type value="0" />
-      <IsInvisible value="false" />
-      <HasLimitedDepth value="false" />
-      <z value="0.0" />
-      <a1 value="26" />
-      <a2 value="26" />
-      <a3 value="26" />
-      <a4 value="26" />
-      <NoStencil value="false" />
-    </Item>
-    <Item>
-      <minX value="500" />
-      <maxX value="3500" />
-      <minY value="4000" />
-      <maxY value="8000" />
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
@@ -8720,13 +7715,6 @@
       <minX value="-984" />
       <maxX value="-716" />
       <minY value="-1724" />
-      <maxY value="-1428" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
-      <minX value="-984" />
-      <maxX value="-716" />
-      <minY value="-1428" />
       <maxY value="-1292" />
       <fDampening value="0.0" />
     </Item>
@@ -9844,7 +8832,7 @@
       <fDampening value="0.0" />
     </Item>
     <Item>
-      <minX value="-404" />
+      <minX value="-728" />
       <maxX value="-188" />
       <minY value="4288" />
       <maxY value="4484" />
@@ -10048,7 +9036,7 @@
     </Item>
     <Item>
       <minX value="-1708" />
-      <maxX value="-1540" />
+      <maxX value="-1440" />
       <minY value="-1080" />
       <maxY value="-1000" />
       <fDampening value="0.0" />
@@ -10076,21 +9064,21 @@
     </Item>
     <Item>
       <minX value="-1536" />
-      <maxX value="-1416" />
+      <maxX value="-1376" />
       <minY value="-1308" />
       <maxY value="-1228" />
       <fDampening value="0.0" />
     </Item>
     <Item>
       <minX value="-1508" />
-      <maxX value="-1408" />
+      <maxX value="-1376" />
       <minY value="-1400" />
       <maxY value="-1308" />
       <fDampening value="0.0" />
     </Item>
     <Item>
       <minX value="-1492" />
-      <maxX value="-1396" />
+      <maxX value="-1376" />
       <minY value="-1496" />
       <maxY value="-1400" />
       <fDampening value="0.0" />
@@ -10201,15 +9189,8 @@
       <fDampening value="0.05" />
     </Item>
     <Item>
-      <minX value="-1378" />
-      <maxX value="-1310" />
-      <minY value="-1668" />
-      <maxY value="-1576" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
       <minX value="-1450" />
-      <maxX value="-1378" />
+      <maxX value="-1310" />
       <minY value="-1668" />
       <maxY value="-1576" />
       <fDampening value="0.0" />
@@ -10922,13 +9903,6 @@
       <fDampening value="0.0" />
     </Item>
     <Item>
-      <minX value="-728" />
-      <maxX value="-404" />
-      <minY value="4288" />
-      <maxY value="4484" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
       <minX value="1756" />
       <maxX value="1964" />
       <minY value="4558" />
@@ -10981,13 +9955,6 @@
       <minX value="264" />
       <maxX value="356" />
       <minY value="6876" />
-      <maxY value="6948" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
-      <minX value="264" />
-      <maxX value="356" />
-      <minY value="6948" />
       <maxY value="6988" />
       <fDampening value="0.0" />
     </Item>
@@ -11588,13 +10555,6 @@
     </Item>
     <Item>
       <minX value="2100" />
-      <maxX value="2256" />
-      <minY value="3880" />
-      <maxY value="3944" />
-      <fDampening value="0.05" />
-    </Item>
-    <Item>
-      <minX value="2256" />
       <maxX value="2320" />
       <minY value="3880" />
       <maxY value="3944" />
@@ -11951,37 +10911,9 @@
       <fDampening value="0.0" />
     </Item>
     <Item>
-      <minX value="-1396" />
-      <maxX value="-1376" />
-      <minY value="-1496" />
-      <maxY value="-1400" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
-      <minX value="-1408" />
-      <maxX value="-1376" />
-      <minY value="-1400" />
-      <maxY value="-1308" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
-      <minX value="-1416" />
-      <maxX value="-1376" />
-      <minY value="-1308" />
-      <maxY value="-1228" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
       <minX value="-1440" />
       <maxX value="-1376" />
       <minY value="-1228" />
-      <maxY value="-1000" />
-      <fDampening value="0.0" />
-    </Item>
-    <Item>
-      <minX value="-1540" />
-      <maxX value="-1440" />
-      <minY value="-1080" />
       <maxY value="-1000" />
       <fDampening value="0.0" />
     </Item>
