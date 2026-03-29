@@ -75,6 +75,7 @@ Edit `water.xml` when you need to change actual authored flood coverage or fill 
 
 Edit these for warning behavior:
 
+- `Config.UseChatMessages`
 - `Config.UseOxLibNotify`
 - `Config.AlertSound`
 - per-phase `message`, `messageType`, and `alarm`

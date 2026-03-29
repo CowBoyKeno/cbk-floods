@@ -72,8 +72,9 @@ You can fully change this through `Config.FloodProfile.phases`.
 
 ## Alerts And Messaging
 
-- Public alerts use chat by default because they are easier to read during long events
-- Set `Config.UseOxLibNotify = true` if you prefer `ox_lib` notifications instead
+- `Config.UseChatMessages = true` keeps chat warnings enabled
+- `Config.UseOxLibNotify = true` enables `ox_lib` notifications
+- You can enable both at the same time if you want chat and `ox_lib` alerts together
 - Alarm behavior is controlled through `Config.AlertSound`
 
 ## Water Tuning

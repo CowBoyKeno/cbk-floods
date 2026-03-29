@@ -89,7 +89,9 @@ local function notify(src, description, notifType)
             description = description,
             type = notifType or 'inform'
         })
-    else
+    end
+
+    if Config.UseChatMessages ~= false then
         TriggerClientEvent('chat:addMessage', src, {
             color = { 0, 153, 255 },
             args = { 'CBK Floods', description }
@@ -105,7 +107,9 @@ local function broadcast(message, notifType)
             type = notifType or 'inform',
             duration = 8000
         })
-    else
+    end
+
+    if Config.UseChatMessages ~= false then
         TriggerClientEvent('chat:addMessage', -1, {
             color = { 255, 80, 80 },
             args = { 'Emergency Management', message }

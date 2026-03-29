@@ -1,6 +1,7 @@
 Config = {}
 
-Config.UseOxLibNotify = false
+Config.UseOxLibNotify = true
+Config.UseChatMessages = true
 Config.PermissionAce = 'cbk.floods.manage'
 Config.ShowUiToAdminsOnly = true
 Config.AdminUiAce = Config.PermissionAce
